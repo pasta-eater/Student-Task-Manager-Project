@@ -31,7 +31,7 @@ public class Tasks
         string Title = "Quantitave Methods: Review for the Midterm Exam";
         Console.WriteLine($"Task: {Title}");
         Console.WriteLine("test");
-        //test lang na comment
+        //test lang na comment hehe
     }
 }
 
