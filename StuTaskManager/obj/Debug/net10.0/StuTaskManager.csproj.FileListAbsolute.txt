@@ -1,0 +1,14 @@
+C:\Users\emman\OneDrive\Documents\Personal VSC Projects\Student Task Manager Project\StuTaskManager\bin\Debug\net10.0\StuTaskManager.exe
+C:\Users\emman\OneDrive\Documents\Personal VSC Projects\Student Task Manager Project\StuTaskManager\bin\Debug\net10.0\StuTaskManager.deps.json
+C:\Users\emman\OneDrive\Documents\Personal VSC Projects\Student Task Manager Project\StuTaskManager\bin\Debug\net10.0\StuTaskManager.runtimeconfig.json
+C:\Users\emman\OneDrive\Documents\Personal VSC Projects\Student Task Manager Project\StuTaskManager\bin\Debug\net10.0\StuTaskManager.dll
+C:\Users\emman\OneDrive\Documents\Personal VSC Projects\Student Task Manager Project\StuTaskManager\bin\Debug\net10.0\StuTaskManager.pdb
+C:\Users\emman\OneDrive\Documents\Personal VSC Projects\Student Task Manager Project\StuTaskManager\obj\Debug\net10.0\StuTaskManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emman\OneDrive\Documents\Personal VSC Projects\Student Task Manager Project\StuTaskManager\obj\Debug\net10.0\StuTaskManager.AssemblyInfoInputs.cache
+C:\Users\emman\OneDrive\Documents\Personal VSC Projects\Student Task Manager Project\StuTaskManager\obj\Debug\net10.0\StuTaskManager.AssemblyInfo.cs
+C:\Users\emman\OneDrive\Documents\Personal VSC Projects\Student Task Manager Project\StuTaskManager\obj\Debug\net10.0\StuTaskManager.csproj.CoreCompileInputs.cache
+C:\Users\emman\OneDrive\Documents\Personal VSC Projects\Student Task Manager Project\StuTaskManager\obj\Debug\net10.0\StuTaskManager.dll
+C:\Users\emman\OneDrive\Documents\Personal VSC Projects\Student Task Manager Project\StuTaskManager\obj\Debug\net10.0\refint\StuTaskManager.dll
+C:\Users\emman\OneDrive\Documents\Personal VSC Projects\Student Task Manager Project\StuTaskManager\obj\Debug\net10.0\StuTaskManager.pdb
+C:\Users\emman\OneDrive\Documents\Personal VSC Projects\Student Task Manager Project\StuTaskManager\obj\Debug\net10.0\StuTaskManager.genruntimeconfig.cache
+C:\Users\emman\OneDrive\Documents\Personal VSC Projects\Student Task Manager Project\StuTaskManager\obj\Debug\net10.0\ref\StuTaskManager.dll
