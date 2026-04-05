@@ -4,6 +4,7 @@
 
 ## Planned Features
 - [x] Create a 'Task' class with properties.
+= [x] Create a hard-coded 'Sign in' (Authentication System) method and a 'User' class for the program.
 - [ ] Add a 'DateOnly' deadline feature for the 'Task' class.
 - [ ] Implement a 'List<T>' to store multiple tasks.
 

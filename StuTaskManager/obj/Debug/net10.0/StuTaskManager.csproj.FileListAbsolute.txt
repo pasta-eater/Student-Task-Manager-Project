@@ -12,3 +12,4 @@ C:\Users\emman\OneDrive\Documents\Personal VSC Projects\Student Task Manager Pro
 C:\Users\emman\OneDrive\Documents\Personal VSC Projects\Student Task Manager Project\StuTaskManager\obj\Debug\net10.0\StuTaskManager.pdb
 C:\Users\emman\OneDrive\Documents\Personal VSC Projects\Student Task Manager Project\StuTaskManager\obj\Debug\net10.0\StuTaskManager.genruntimeconfig.cache
 C:\Users\emman\OneDrive\Documents\Personal VSC Projects\Student Task Manager Project\StuTaskManager\obj\Debug\net10.0\ref\StuTaskManager.dll
+C:\Users\emman\OneDrive\Documents\Personal VSC Projects\Student Task Manager Project\StuTaskManager\obj\Debug\net10.0\StuTaskManager.sourcelink.json

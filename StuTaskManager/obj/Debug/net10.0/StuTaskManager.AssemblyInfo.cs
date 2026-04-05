@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StuTaskManager")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79ab001cc4cf4f36bdbc7038de6f21dc77eedc44")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f61be8eca43ba906129d631f81d9ae1c6ee5bb2c")]
 [assembly: System.Reflection.AssemblyProductAttribute("StuTaskManager")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StuTaskManager")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
