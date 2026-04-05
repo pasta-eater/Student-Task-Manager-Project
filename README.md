@@ -1,0 +1,1 @@
+To anyone that would see this, thank you so much for viewing my messy ass code. I'm still a beginner and this is my first time trying out GitHub!

@@ -23,7 +23,15 @@ public class Student
     }
 }
 
-
+public class Tasks
+{
+    public Tasks()
+    {
+        Console.WriteLine("Here are your tasks for the week:");
+        string Title = "Quantitave Methods: Review for the Midterm Exam";
+        Console.WriteLine($"Task: {Title}");
+    }
+}
 
 public class LandingPage
 {
